@@ -23,3 +23,7 @@ The practice to acquire those concepts leading to the KNOW.
 ## The Cloud
 
 The application and deployment of the KNOW in a real environment and use cases, making it real and improvable.
+
+# Organization
+
+The triage is done in [Projects](https://github.com/AdrienFromToulouse/cloudndirt/projects)
